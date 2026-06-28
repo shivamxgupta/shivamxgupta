@@ -10,7 +10,7 @@
 
 ## Skills
 
-* C Programming
+* Programming
 * Basic Problem Solving
 * Programming Fundamentals
 
